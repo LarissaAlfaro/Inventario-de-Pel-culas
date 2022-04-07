@@ -1,0 +1,50 @@
+{
+    "0": {
+        "name": "Titanic",
+        "id": "0",
+        "time": "03:15:00",
+        "autor": "James Cameron ",
+        "description": "Jack (DiCaprio), un joven artista, gana en una partida de cartas un pasaje para viajar a Am\u00e9rica en el Titanic, el transatl\u00e1ntico m\u00e1s grande y seguro jam\u00e1s construido. A bordo conoce a Rose (Kate Winslet), una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal (Billy Zane), un millonario engre\u00eddo a quien s\u00f3lo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relaci\u00f3n. Mientras, el gigantesco y lujoso transatl\u00e1ntico se aproxima hacia un inmenso iceberg. ",
+        "gender": "Rom\u00e1nticas"
+    },
+    "1": {
+        "name": "Bad Boys for Life",
+        "id": "1",
+        "time": "02:03:00",
+        "autor": "Bilall Fallah y Adil El Arbi ",
+        "description": "En esta tercera entrega de la franquicia, los pol\u00edc\u00eda Mike Lowrey (Will Smith) y Marcus Burnett (Martin Lawrence) vuelven a patrullar juntos en un \u00faltimo viaje.",
+        "gender": "Acci\u00f3n"
+    },
+    "2": {
+        "name": "Sonic the Hedgehog",
+        "id": "2",
+        "time": "01:39:00",
+        "autor": "Jeff Fowler",
+        "description": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivir\u00e1 aventuras y desventuras cuando conoce a su amigo humano y polic\u00eda, Tom Wachowski (James Marsden). Sonic y Tom unir\u00e1n sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik (Jim Carrey), que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
+        "gender": "Comedia"
+    },
+    "3": {
+        "name": "Harry Potter y las reliquias de la muerte - Parte 2 ",
+        "id": "3",
+        "time": "02:10:00",
+        "autor": "David Yates",
+        "description": "El final ha llegado. Harry, Hermione y Ron tendr\u00e1n que recuperar la espada de Gryffindor para encontrar y destruir los \u00faltimos horrocruxes. Mientras tanto, Lord Voldemort est\u00e1 a punto de apoderarse por completo de Hogwarts y de conseguir su objetivo: matar a Harry Potter. La \u00fanica esperanza de Harry es encontrar los horrocruxes antes de que Voldemort lo encuentre a \u00e9l. Buscando pistas, descubre una antigua y olvidada historia: la leyenda de las reliquias de la muerte, que podr\u00eda dar al malvado Lord el poder definitivo. Pero el futuro de Harry est\u00e1 escrito desde que naci\u00f3 e incluye una misi\u00f3n para la que se ha estado preparando desde que lleg\u00f3 a Hogwarts: la batalla final contra Voldemort.",
+        "gender": "Espada y Hechicer\u00eda"
+    },
+    "4": {
+        "name": "Star Wars: El ascenso de Skywalker ",
+        "id": "4",
+        "time": "02:21:00",
+        "autor": "J.J. Abrams",
+        "description": "Un a\u00f1o despu\u00e9s de los eventos de \"Los \u00faltimos Jedi\", los restos de la Resistencia se enfrentar\u00e1n una vez m\u00e1s a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegar\u00e1 a su cl\u00edmax, lo que llevar\u00e1 a la saga de los Skywalker a un final definitivo. Final de la trilog\u00eda iniciada con \"El despertar de la Fuerza\". ",
+        "gender": "Ciencia Ficci\u00f3n"
+    },
+    "5": {
+        "name": "El Padrino. Parte II",
+        "id": "5",
+        "time": "03:20:00",
+        "autor": "Francis Ford Coppola",
+        "description": "Continuaci\u00f3n de la historia de los Corleone por medio de dos historias paralelas: la elecci\u00f3n de Michael como jefe de los negocios familiares y los or\u00edgenes del patriarca, Don Vito Corleone, primero en su Sicilia natal y posteriormente en Estados Unidos, donde, empezando desde abajo, lleg\u00f3 a ser un poderos\u00edsimo jefe de la mafia de Nueva York. ",
+        "gender": "Delincuencia"
+    }
+}

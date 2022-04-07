@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="X">
+    <file>Cancelar.png</file>
+  </qresource>
+</RCC>

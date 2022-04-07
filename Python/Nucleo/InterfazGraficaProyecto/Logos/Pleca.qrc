@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Pleca">
+    <file>Comprobar.png</file>
+  </qresource>
+</RCC>
